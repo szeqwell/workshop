@@ -1,0 +1,6 @@
+// This project has been migrated to Maven.
+// Gradle build is intentionally disabled. Use Maven (pom.xml) instead.
+// Recommended commands:
+//   mvn quarkus:dev
+//   mvn test
+//   mvn package
